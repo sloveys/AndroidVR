@@ -11,10 +11,11 @@ Cons:
 
 **********
 
-UE4:
+UE4: < Sam's preference
 Pros:
 -less dev time from engine
 -no revenue capacity
+-supports Vulkan
 
 cons:
 -5% royalty after the first $3k earnings (seems fare)
